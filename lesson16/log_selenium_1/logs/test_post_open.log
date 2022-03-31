@@ -1,0 +1,9 @@
+===> Test test_post_open started at 2022-03-24 17:39:35.410277
+===> Test test_post_open started at 2022-03-24 17:41:35.886168
+Browser:chrome
+Opening url: https://habr.com/en
+Clicking element: ('css selector', '.tm-header-user-menu__search .tm-header-user-menu__icon_search')
+Input Python in input ('css selector', "input[name='q']")
+Clicking element: ('css selector', '.tm-article-snippet__readmore')
+Check if element ('css selector', '.tm-article-body') is present
+===> Test test_post_open finished at 2022-03-24 17:41:53.036149
