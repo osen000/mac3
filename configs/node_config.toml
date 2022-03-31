@@ -1,4 +1,0 @@
-[node]
-max-sessions = 2
-override-max-sessions = true
-session-timeout = 60
