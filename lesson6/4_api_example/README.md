@@ -1,1 +1,0 @@
-Тесты основанные на api из репозитория https://github.com/konflic/api_example
