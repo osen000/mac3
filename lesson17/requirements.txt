@@ -1,3 +1,0 @@
-pytest==7.0.1
-allure-pytest==2.9.45
-pytest-rerunfailures==10.2
